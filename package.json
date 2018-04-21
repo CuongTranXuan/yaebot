@@ -1,0 +1,26 @@
+{
+  "name": "yaebot",
+  "version": "1.0.0",
+  "description": "my bot to control my armada group chat",
+  "main": "mybot.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "keywords": [
+    "bot",
+    "facebook",
+    "chat",
+    "honkai_impact"
+  ],
+  "author": "GCKM1",
+  "license": "MIT",
+  "dependencies": {
+    "facebook-chat-api": "^1.5.0",
+    "nodemon": "",
+    "morgan": "",
+    "fs": "",
+    "express": "",
+    "body-parser": "",
+    "http": ""
+  }
+}

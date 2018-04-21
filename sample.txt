@@ -1,0 +1,67 @@
+{ type: 'event',
+  threadID: '1752612661447757',
+  logMessageType: 'log:user-nickname',
+  logMessageData: { participant_id: '100009682489118', nickname: '' },
+  logMessageBody: 'L34d3r phế vật :* cleared the nickname for Nguyễn Sơn.',
+  author: '100005115908581' }
+info listen Got answer in 3514
+{ type: 'event',
+  threadID: '1752612661447757',
+  logMessageType: 'log:thread-color',
+  logMessageData: { theme_color: 'ffff7e29' },
+  logMessageBody: 'L34d3r phế vật :* changed the chat colors',
+  author: '100005115908581' }
+info listen Got answer in 3855
+{ type: 'event',
+  threadID: '1752612661447757',
+  logMessageType: 'log:thread-icon',
+  logMessageData: { thread_icon: '😂' },
+  logMessageBody: 'L34d3r phế vật :* set the emoji to 😂.',
+  author: '100005115908581' }
+info listen Got answer in 7861
+{ reader: '100023560997365',
+  time: '1524218762803',
+  threadID: '1752612661447757',
+  type: 'read_receipt' }
+info listen Got answer in 796
+{ reader: '100021867110340',
+  time: '1524218763420',
+  threadID: '1752612661447757',
+  type: 'read_receipt' }
+info listen Got answer in 4545
+{ type: 'event',
+  threadID: '1752612661447757',
+  logMessageType: 'log:unsubscribe',
+  logMessageData: { leftParticipantFbId: '100013265649303' },
+  logMessageBody: 'L34d3r phế vật :* removed The Callousness from the group.',
+  author: '100005115908581' }
+info listen Got answer in 4349
+info listen Got answer in 4234
+{ type: 'event',
+  threadID: '1752612661447757',
+  logMessageType: 'log:subscribe',
+  logMessageData: { addedParticipants: [ [Object] ] },
+  logMessageBody: 'L34d3r phế vật :* added The Callousness.',
+  author: '100005115908581' }
+{ reader: '100021867110340',
+  time: '1524218775943',
+  threadID: '1752612661447757',
+  type: 'read_receipt' }
+info listen Got answer in 2251
+{ reader: '100023560997365',
+  time: '1524218778816',
+  threadID: '1752612661447757',
+  type: 'read_receipt' }
+
+
+
+
+{ type: 'message',
+  senderID: '100005115908581',
+  body: 'khi mà h chỉ có t vs @Thiện Machina add đc mem :v',
+  threadID: '1752612661447757',
+  messageID: 'mid.$gAAY5_e8dTE1pF1QGjFi5g688sNdD',
+  attachments: [],
+  mentions: { '100004200341956': '@Thiện Machina' },
+  timestamp: '1524278148748',
+  isGroup: true }
